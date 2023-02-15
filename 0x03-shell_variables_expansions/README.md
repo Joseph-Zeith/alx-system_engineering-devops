@@ -1,1 +1,1 @@
-this is the readme that creates 1-hello_you
+a readme to make  /action to the PATH. /action at the end
